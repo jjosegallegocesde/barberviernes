@@ -16,7 +16,7 @@ export function Home(){
 
     setTimeout(function(){
         setTiempoCarga(1)
-    },5000)
+    },1000)
 
     if(estadoDecarga){
 
